@@ -31,4 +31,4 @@ jobs:
         username: ${{ secrets.SFTP_USERNAME }}
         password: ${{ secrets.SFTP_PASSWORD }}
         source: ./html
-        remote: /testing
+        target: /testing
