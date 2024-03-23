@@ -32,4 +32,4 @@ jobs:
         password: ${{ secrets.SFTP_PASSWORD }}
         port : ${{ secrets.SFTP_PORT }}
         source: ./html
-        target: /testing
+        target: ./testing
