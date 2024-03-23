@@ -4,7 +4,7 @@ import { FC } from "react";
 const ExampleComponent:FC = () => {
   return (
     <>
-      <div>This is an example component.</div>
+      <div>This is an example componet.</div>
     </>
   );
 };
