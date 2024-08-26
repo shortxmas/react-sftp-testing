@@ -9,7 +9,7 @@ const Index = () => {
         <ExampleComponent />
         <figure>
           <img className="img-fluid w-50" src="./assets/img.jpg"></img>
-          <figcaption>This is an example asset</figcaption>
+          <figcaption>This is an example assteset</figcaption>
         </figure>
       </div>
     </>
